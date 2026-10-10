@@ -1,0 +1,85 @@
+{
+    "Version": "0.013",
+    "ModID": "High_Latitude_Specialists",
+    "IncompatibleIds": [],
+    "ModDependencies": [
+    "shared-pools-and-definitions"
+    ],
+
+    "Category": {
+      "Chinese": "Gameplay",
+      "English": "Gameplay",
+      "French": "Gameplay",
+      "German": "Gameplay",
+      "Italian": "Gameplay",
+      "Korean": "Gameplay",
+      "Polish": "Gameplay",
+      "Russian": "Gameplay",
+      "Spanish": "Gameplay",
+      "Taiwanese": "Gameplay"
+    },
+    "ModName": {
+      "Chinese": "高纬度专家",
+      "English": "High Latitude Specialists",
+      "French": "Spécialistes des hautes latitudes",
+      "German": "Spezialisten der hohen Breitengrade",
+      "Italian": "Specialisti delle alte latitudini",
+      "Korean": "고위도 전문가",
+      "Polish": "Specjaliści wysokich szerokości geograficznych",
+      "Russian": "Специалисты высоких широт",
+      "Spanish": "Especialistas de altas latitudes",
+      "Taiwanese": "高緯度專家"
+    },
+    "Description": {
+      "Chinese": "高纬度专家带来他们的北极经验，应对你世界中最恶劣的环境。",
+      "English": "High Latitude Specialists bring their Arctic expertise to tackle the most hostile environments in your world.",
+      "French": "Les spécialistes des hautes latitudes apportent leur expertise arctique pour affronter les environnements les plus hostiles de votre monde.",
+      "German": "Spezialisten der hohen Breitengrade bringen ihre arktische Erfahrung ein, um die feindlichsten Umgebungen deiner Welt zu meistern.",
+      "Italian": "Gli specialisti delle alte latitudini apportano la loro esperienza artica per affrontare gli ambienti più ostili del tuo mondo.",
+      "Korean": "고위도 전문가들이 세계에서 가장 혹독한 환경에 맞서기 위해 북극 경험을 제공합니다.",
+      "Polish": "Specjaliści wysokich szerokości geograficznych wnoszą swoje arktyczne doświadczenie, aby stawić czoła najbardziej wrogim środowiskom w twoim świecie.",
+      "Russian": "Специалисты высоких широт используют свой арктический опыт, чтобы справиться с самыми враждебными условиями в вашем мире.",
+      "Spanish": "Especialistas en Altas Latitudes aportan su experiencia ártica para afrontar los entornos más hostiles de tu mundo.",
+      "Taiwanese": "高緯度專家帶來北極經驗，應對你世界中最惡劣的環境。"
+    },
+    "KnownIssues": null,
+    "DLCDependencies": [ 
+      "The Passage", 
+      "New World Rising",
+      "HighLife",
+      "Seeds of Change"
+    ],
+    "LoadAfterIds": [
+      "shared-pools-and-definitions",
+      "Diverse Kraftwerke",
+      "military_attention",
+      "jakob-power-plants",
+      "ropes-jakob",
+      "ow-olive-oil-jakob",
+      "ow-ropes-jakob",
+      "olive-oil-jakob",
+      "olives-jakob",
+      "ow-clothes-jakob",
+      "jakob-modular-factories",
+      "arctic_fishery_kurila",
+      "advanced_framework_knitter_kurila",
+      "white_and_cold",
+      "Automotive_Industry",
+      "Lux_et_Industria",
+      "A_Better_Tomorrow",
+      "Refined_Expatriates",
+      "Shared_Salmon",
+      "Shared_SilverOre_Tisogno",
+      "Diverse Kraftwerke",
+      "wool_fabric_kurila",
+      "sewing_thread_kurila",
+      "shared-sulfur-production-lion053",
+      "arctic_husky_sled_revision_kurila",
+      "arctic_fish_smokery_kurila",
+      "arctic_heater_upgrade_kurila",
+      "shared_chrome_mine_kurila"
+    ],
+    "CreatorName": "Satanoy",
+    "CreatorContact": null,
+    "Image": "banner.png"
+}

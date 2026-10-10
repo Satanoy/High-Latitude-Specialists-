@@ -1,0 +1,193 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Add Fergunnar Skarnsen, Master of the Wild Kitchen -->
+    <Text>
+      <GUID>1888999253</GUID>
+      <Text>Fergunnar Skarnsen, Master of the Wild Kitchen</Text>
+    </Text>
+    <Text>
+      <GUID>1888999254</GUID>
+      <Text>A master of venison cuisine, Fergunnar elevates deer recipes into enduring staples fit for harsh climates. With a craftsman’s precision in preparation, his methods deliver unmatched flavor and exceptional efficiency in industrial production.</Text>
+    </Text>
+    <!-- Add Ivar Netfiske, the Hidden Catcher -->
+    <Text>
+      <GUID>1888999867</GUID>
+      <Text>Ivar Netfiske, the Hidden Catcher</Text>
+    </Text>
+    <Text>
+      <GUID>1888999868</GUID>
+      <Text>With steady hands, Ivak Netfiske ensures that nothing the sea provides is wasted. From the overlooked to the unwanted, whatever the nets bring in, he applies patient skill and practical ingenuity to turn it into lasting value and reliable provisions.</Text>
+    </Text>
+    <!-- Add Einar Fjellrik, From the Highlands-->
+    <Text>
+      <GUID>1888999869</GUID>
+      <Text>Einar Fjellrik, From the Highlands</Text>
+    </Text>
+    <Text>
+      <GUID>1888999870</GUID>
+      <Text>From the mountains of Scandinavia, Einar brings a craftsman’s patience to the cities, shaping felt into refined hats of enduring quality. Through steady hands, learned restraint, and uncompromising standards, his work quietly sets the benchmark of fashion wherever it appears.</Text>
+    </Text>
+    <!-- Add Anna Karpovna, Envoy of the Whaling Guilds -->
+    <Text>
+      <GUID>1888999871</GUID>
+      <Text>Anna Karpovna, Envoy of the Whaling Guilds</Text>
+    </Text>
+    <Text>
+      <GUID>1888999872</GUID>
+      <Text>With charm and tireless argumentation, Anya deftly persuades industrial leaders to postpone the shift to modern alternatives. Through pressure, meetings and carefully chosen words, she ensures that as long as decisions are delayed, whale oil—and her influence continue to burn brightly.</Text>
+    </Text>
+    <!-- Add Estrid Van Hofweegen, the Compassionate Chef -->
+    <Text>
+      <GUID>1888999873</GUID>
+      <Text>Estrid Van Hofweegen, the Compassionate Chef</Text>
+    </Text>
+    <Text>
+      <GUID>1888999874</GUID>
+      <Text>Estrid understands that hunting is a necessity for survival in the North, yet insists that no life be taken in vain. Through practiced hands and quiet conviction, every animal is used in full—meat, hide, and bone carefully honored—turning harsh survival into a disciplined act of respect.</Text>
+    </Text>
+    <!-- Add Bjarne Hallkvíðr, The Seasoned Ranger -->
+    <Text>
+      <GUID>1888999875</GUID>
+      <Text>Bjarne Hallkvíðr, The Seasoned Ranger</Text>
+    </Text>
+    <Text>
+      <GUID>1888999876</GUID>
+      <Text>After years roaming the vast forests Europe, Björn brings his seasoned instincts and skills to the unforgiving Arctic. There, amid ice and silence, he seeks challenges demanding true mastery, adapting to harsher conditions and proving his worth as a ranger who has already conquered the wild.</Text>
+    </Text>
+    <!-- Add Conrad M. Hawthorne, Naturalist of Animal Behaviour -->
+    <Text>
+      <GUID>1888999877</GUID>
+      <Text>Conrad M. Hawthorne, Naturalist of Animal Behaviour</Text>
+    </Text>
+    <Text>
+      <GUID>1888999878</GUID>
+      <Text>After countless hours observing animal behavior, Conrad has formed an unusual bond with his subjects. Through patient care and disciplined study, the animals under his supervision display calmer temperaments, finer yields, and a loyalty seldom achieved even by the most experienced human hands.</Text>
+    </Text>
+    <!-- Add Chiara Marelli, Virtuosa dell’Intaglio -->
+    <Text>
+      <GUID>1888999879</GUID>
+      <Text>Chiara Marelli, Virtuosa dell’Intaglio</Text>
+    </Text>
+    <Text>
+      <GUID>1888999880</GUID>
+      <Text>She shows a quiet delight whenever she encounters a fine piece of wood, carefully studying its grain, texture, and hidden potential. Her greatest satisfaction comes from transforming it in useful and durable quality tools to make life easier for explorers in the most difficult Artic latitudes.</Text>
+    </Text>
+    <!-- Add Amalia de las Rosas, Sovereign of Textile Manufacture -->
+    <Text>
+      <GUID>1888999881</GUID>
+      <Text>Amalia de las Rosas, Sovereign of Textile Manufacture</Text>
+    </Text>
+    <Text>
+      <GUID>1888999882</GUID>
+      <Text>From the tiniest fastening peg to the sturdiest tent tarp, she oversees every detail that keeps an expedition alive. Guided by a practical mind and great standards, she ensures that explorers are equipped with reliable gear, capable of enduring the harshest and most unforgiving wilderness journeys.</Text>
+    </Text>
+    <!-- Add Eiríkur Nýhlfjörð, the Inventor -->
+    <Text>
+      <GUID>1888999883</GUID>
+      <Text>Eiríkur Nýhlfjörð, The Inventor </Text>
+    </Text>
+    <Text>
+      <GUID>1888999884</GUID>
+      <Text>An ingenious inventor, he refined the Oil Lamps into a dependable tool, balancing precision with elegance. Equally adept in workshops and meeting rooms alike, he is known for concluding agreements with a brief spark of flame and the confidence of a man whose inventions speak entirely for themselves.</Text>
+    </Text>
+    <!-- Add Håkon Nordvik, Devourer of Mammal Meat -->
+    <Text>
+      <GUID>1888999885</GUID>
+      <Text>Håkon Nordvik, Devourer of Mammal Meat</Text>
+    </Text>
+    <Text>
+      <GUID>1888999886</GUID>
+      <Text>The legend of his appetite for the flesh of marine mammals began after a fateful voyage, when he was swallowed whole by a whale. Trapped in darkness, he is said to have survived by resolve, carving his way to freedom consuming the beast from within an ordeal that forever shaped his hunger and his legend.</Text>
+    </Text>
+    <!-- Add János Kovács, Ore-Seeker of the North-->
+    <Text>
+      <GUID>1888999887</GUID>
+      <Text>János Kovács, Ore-Seeker of the North</Text>
+    </Text>
+    <Text>
+      <GUID>1888999888</GUID>
+      <Text>A renowned miner specializing in Arctic ore extraction, János is respected for his discipline and his command of even the most treacherous veins. Each day beneath the frozen ground stands as a testament to his endurance, where brutal cold and unyielding stone alike fail to bend his skill or resolve.</Text>
+    </Text>
+    <!-- Add Juhani Korhonen, High-Voltage Electrician-->
+    <Text>
+      <GUID>1888999889</GUID>
+      <Text>Juhani Korhonen, High-Voltage Electrician</Text>
+    </Text>
+    <Text>
+      <GUID>1888999890</GUID>
+      <Text>A true master of wires and circuits, he ensures that every powered plant operates with precision. Calm under constant pressure and uncompromising in his standards, he keeps power flowing steadily where chaos and sparks would otherwise reign an electrifying presence whose holds the entire system together.</Text>
+    </Text>
+    <!-- Add Nikolai Andreyevich Morozov, State Pressure Inspector-->
+    <Text>
+      <GUID>1888999891</GUID>
+      <Text>Nikolai Andreyevich Morozov, State Pressure Inspector</Text>
+    </Text>
+    <Text>
+      <GUID>1888999892</GUID>
+      <Text>Tasked with overseeing valves and pressure systems, He enforces uncompromising operational limits across multiple industrial plants. His vigilance averts catastrophic failure before it can take form, a responsibility that demands absolute precision, discipline and a professional life lived under pressure.</Text>
+    </Text>
+    <!-- Add Aleksandra Petrovna Kuznetsova, Industrial Safety Instructor-->
+    <Text>
+      <GUID>1888999893</GUID>
+      <Text>Aleksandra Petrovna Kuznetsova, Industrial Safety Instructor</Text>
+    </Text>
+    <Text>
+      <GUID>1888999894</GUID>
+      <Text>Alexandra enforces safety regulations within the power plants, ensuring that every procedure is followed. Any worker who poses a risk to the operation quickly learns that mistakes are neither excused nor repeated under her watch, for discipline  are the first lines of defense against disaster.</Text>
+    </Text>
+    <!-- Add Yervin Flynsky, Imperial Gas Prospector -->
+    <Text>
+      <GUID>1888999895</GUID>
+      <Text>Yervin Flynsky, Imperial Gas Prospector</Text>
+    </Text>
+    <Text>
+      <GUID>1888999896</GUID>
+      <Text>A pioneer of Arctic exploration, Yervin refined the gas prospecting through rigorous observation and uncompromising procedure. His deep understanding of volatile deposits allows for the controlled extraction of gases, reducing the risk of catastrophic explosions even under the most unforgiving conditions.</Text>
+    </Text>
+    <!-- The Explosion Prevention Act -->
+    <Text>
+			<GUID>1888999897</GUID>
+			<Text>The Explosion Prevention Act</Text>
+		</Text>
+		<Text>
+			<GUID>1888999898</GUID>
+			<Text>A strict decree requiring that every gas extractor and mine be fortified against disaster. Under its provisions, no uncontrolled blasts may occur, no flames may rage unchecked, and only safe, steady, and methodical work is allowed—ensuring the protection of both laborers and the surrounding settlements.</Text>
+		</Text>
+    <!-- Add Akiak Niriunaq, Guardian of the Warm Bundle-->
+    <Text>
+      <GUID>1888999899</GUID>
+      <Text>Akiak Niriunaq, Guardian of the Warm Bundle</Text>
+    </Text>
+    <Text>
+      <GUID>1888999900</GUID>
+      <Text>Bringing comfort to Arctic residents, He provides warmth where fur and cloth alone fall short. In settlements battered by wind and ice, his steady presence lifts spirits and restores a sense of humanity. His kindness warms hearts long after the cold has settled in, when endurance alone is no longer enough.</Text>
+    </Text>
+    <!-- Sofiya Andreyevna Khlumskaya, People’s Rationing Commissar-->
+    <Text>
+			<GUID>1888999901</GUID>
+			<Text>Sofiya Andreyevna Khlumskaya, People’s Rationing Commissar</Text>
+		</Text>
+    <Text>
+			<GUID>1888999902</GUID>
+			<Text>Through discipline her guidance turns even the harshest Arctic journeys into something resembling home. Where resources are scarce and the cold is unforgiving, her presence imposes purpose, offering structure amid uncertainty. In silence and snow, she provides the assurance that no one is left to endure the ice alone.</Text>
+		</Text>
+    <!-- Add Sir Edmund Knott-Crane President of the Royal Geographical Society -->
+    <Text>
+      <GUID>1888999903</GUID>
+      <Text>Sir Edmund Knott-Crane President of the Royal Geographical Society</Text>
+    </Text>
+    <Text>
+      <GUID>1888999904</GUID>
+      <Text>Over the course of numerous expeditions to the Artic, he established enduring relations with native communities, contributing to the bridging of cultural divides and understanding between distant and often misunderstood civilizations, grounded in sustained contact, careful observation, and mutual respect.</Text>
+    </Text>
+    <!-- Add Yelena Kozhevnitsa, Chief Designer of Arctic Clothing -->
+    <Text>
+      <GUID>1888999907</GUID>
+      <Text>Yelena Kozhevnitsa, Chief Designer of Arctic Clothing</Text>
+    </Text>
+    <Text>
+      <GUID>1888999908</GUID>
+      <Text>Forged in the unforgiving climates of northern Siberia, Yelena learned early on that survival begins with good fur and sturdy stitching. She transformed the rough techniques of hunters into an industrial system capable of clothing thousands of factory workers against the most extreme cold.</Text>
+    </Text>
+	</ModOp>
+</ModOps>
